@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "test/react-dom-server-render.test.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
